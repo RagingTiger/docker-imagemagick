@@ -1,5 +1,5 @@
 ## About
-`Dockerized` version of `imagemagick`.
+`Dockerized` version of [imagemagick](https://imagemagick.org/script/index.php).
 
 ## Usage: Example
 Here is an example usage where we convert an image to a different
